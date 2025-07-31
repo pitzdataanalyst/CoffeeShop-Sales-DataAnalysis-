@@ -1,8 +1,14 @@
-# CoffeeShop-Sales-DataAnalysis-
-This dataset contains detailed records of coffee sales from a vending machine. The vending machine is the work of a dataset author who is committed to providing an open dataset to the community. It is intended for analysis of purchasing patterns, sales trends, and customer preferences related to coffee products.
+# 🚀 Portfolio Project Alert: Coffee Vending Machine Sales Analysis☕
+
+This dataset contains detailed records of coffee sales from a vending machine.It is intended for analysis of purchasing patterns, sales trends, and customer preferences related to coffee products.
+
+# <u> Project Overview </u>
+
+#### This project analyzes transactional data collected from a coffee vending machine. The dataset spans from January 2024 to June 2024, capturing rich, real-time data on coffee product purchases. The aim of the project is to uncover sales patterns, customer preferences, and revenue trends using Excel, SQL, and Power BI to support data-driven business decisions.
 
 # <u> Problem Statement </u>
-## 📌 Total Sales
+
+## 📌 Total Revenue
 *“Calculate the total revenue generated over the selected period to understand overall business performance and identify growth opportunities.”*
 
 What is the total revenue generated in the selected time frame?
