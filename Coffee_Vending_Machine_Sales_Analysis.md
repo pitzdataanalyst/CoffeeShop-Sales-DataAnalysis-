@@ -125,19 +125,26 @@ Customers preferred hot beverages in the morning and iced drinks during noon hou
 
 ✅ Insight: Seasonal and time-based preferences can guide dynamic pricing or bundling offers.
 
-🎯 Expected Outcome from the Project
-By the end of this analysis, we aim to:
+# 🎯 Expected Outcome from the Project
+
+ By the end of this analysis, we aim to:
 
 🎯 Identify high-performing products and optimize stock levels
 
+
 📈 Recognize peak sales hours/days for better service planning
+
 
 💰 Calculate Average Order Value to guide pricing strategies
 
+
 🧠 Understand customer behavior and preferences to influence product development
 
+
 📊 Present interactive dashboards that assist managers in making data-backed decisions
+
 
 💼 Strengthen my data analysis portfolio showcasing real-world, end-to-end business analysis using Excel, SQL, and Power BI
 
 
+<u> LINKEDIN :https://www.linkedin.com/in/priyankataklikar </u>
